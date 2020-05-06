@@ -1,0 +1,4 @@
+com.xfalcoonxx.banco_dados
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme
